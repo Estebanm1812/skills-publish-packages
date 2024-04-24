@@ -125,3 +125,8 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+### Evidencia
+
+<img width="764" alt="Captura de pantalla 2024-04-23 a la(s) 8 09 40 p  m" src="https://github.com/Estebanm1812/skills-publish-packages/assets/69942961/63f7a0d9-7538-4bac-bd64-6219ae6551bb">
+
